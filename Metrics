@@ -1,0 +1,13 @@
+# SERVESAGE Metrics Glossary
+
+This document defines the key metrics tracked and analyzed by SERVESAGE.  
+Each metric is designed to provide actionable insights for service companies, technicians, and operations managers.
+
+---
+
+## **1. Conversion Rate (Assessment → Fulfillment)**  
+- **Definition:** The percentage of initial **Assessment/Quote Visits** that result in completed **Fulfillment Visits**.  
+- **Purpose:** Measures technician effectiveness at converting quotes into actual jobs.  
+- **Calculation:**  
+  ```text
+  Conversion Rate (%) = (Number of Fulfillment Visits / Number of Assessment Visits) x 100
