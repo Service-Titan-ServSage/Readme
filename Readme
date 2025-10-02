@@ -1,0 +1,105 @@
+# SERVESAGE  
+*The wisdom behind your service operations.*  
+
+---
+
+## 🚀 What is SERVESAGE?  
+SERVESAGE is an intelligent analytics and forecasting platform designed to **extend ServiceTitan’s capabilities**.  
+We help service companies transform raw operational data into **actionable insights** that improve technician performance, customer experience, and long-term growth.  
+
+Think of SERVESAGE as the **missing intelligence layer** on top of your existing ServiceTitan data.  
+
+---
+
+## 🎯 Why SERVESAGE?  
+ServiceTitan gives you the data. SERVESAGE gives you the clarity.  
+
+- Too many reports, not enough insight.  
+- Hard to measure **technician performance** beyond basic metrics.  
+- Forecasting demand is often reactive, not predictive.  
+- Managers spend hours piecing together dashboards instead of making decisions.  
+
+SERVESAGE solves this.  
+
+---
+
+## 🔑 Core Features (MVP)  
+
+### 1. **Conversion KPI Tracking**  
+- Measures the percentage of **Assessment/Quote Visits → Fulfillment Visits**.  
+- Attribution to individual technicians (ownership of performance).  
+- Highlights opportunities for coaching and training.  
+
+### 2. **AI-Powered Forecasting**  
+- Predicts **busy periods** and staffing needs.  
+- Identifies the **most profitable job types** for prioritization.  
+- Helps plan ahead instead of reacting to bottlenecks.  
+
+### 3. **Technician Performance Dashboards**  
+- Visual insights into who’s excelling and who needs support.  
+- Tracks **efficiency, conversions, repeat visits, and fulfillment rates**.  
+- Gamified leaderboard (optional) for motivation.  
+
+### 4. **Executive-Ready Reporting**  
+- Export client-ready dashboards in a single click.  
+- Tailored views for **owners, managers, and frontline staff**.  
+
+---
+
+## 🛠 How It Works (High-Level)  
+1. **Integrates with ServiceTitan** via API.  
+2. Pulls data on jobs, visits, technicians, and customer outcomes.  
+3. Runs data through our **analytics + forecasting engine**.  
+4. Presents results in a clean, **role-based dashboard**.  
+
+*(Note: MVP will begin with analytics dashboards and expand to advanced AI forecasting.)*  
+
+---
+
+## 📊 Example Metrics We Track  
+- Conversion Rate (Assessment → Fulfillment)  
+- Technician Efficiency (Jobs Completed vs. Hours Worked)  
+- Average Time-to-Conversion  
+- Repeat Visit Frequency  
+- Seasonal Forecast (jobs & staffing needs)  
+
+---
+
+## 💡 Who is SERVESAGE For?  
+- **Service Business Owners** → Gain clarity on profitability & growth.  
+- **Operations Managers** → Staff smarter, coach better, reduce waste.  
+- **Technicians** → See clear performance KPIs and ownership of conversions.  
+
+---
+
+## 📌 Roadmap (Short-Term)  
+- ✅ MVP Dashboard with Conversion KPI + Technician Performance  
+- 🔄 Predictive Forecasting engine (in development)  
+- 📤 Export to PDF/Excel reporting  
+- 🚀 Beta testing with select service companies  
+
+---
+
+## 🤝 Get Involved  
+We’re currently seeking **beta partners** in the service industry (HVAC, plumbing, electrical, appliance repair, etc.).  
+If you’re interested in shaping the future of SERVESAGE:  
+
+📧 Email: **info@servesage.com**  
+🔗 Connect on LinkedIn: [Your Profile Link Here]  
+
+---
+
+## 🧭 Vision  
+Our mission isn’t just to maximize profit — it’s to **promote service excellence**.  
+By giving frontline technicians ownership of their conversions and giving managers true foresight, SERVESAGE helps companies deliver **better customer experiences** while growing sustainably.  
+
+---
+
+## ⚡ Quick Links  
+- [Product Overview (PDF)](./docs/overview.pdf) *(placeholder)*  
+- [Demo Screenshots](./demo/) *(placeholder)*  
+- [Roadmap](./docs/roadmap.md) *(placeholder)*  
+
+---
+
+**SERVESAGE** – *The wisdom behind your service operations.*
