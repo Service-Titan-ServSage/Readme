@@ -1,0 +1,31 @@
+# Contributing to SERVESAGE
+
+We welcome contributions from developers, data analysts, and industry experts.  
+
+---
+
+## 🤝 How to Contribute
+1. Fork this repository.  
+2. Create a feature branch (`git checkout -b feature/your-feature`).  
+3. Commit changes (`git commit -m 'Add new feature'`).  
+4. Push to the branch (`git push origin feature/your-feature`).  
+5. Open a Pull Request.  
+
+---
+
+## 📌 Guidelines
+- Keep documentation clear and non-jargon-heavy for business users.  
+- Maintain modular code for easier scaling.  
+- Prioritize security and data privacy at every stage.  
+
+---
+
+## 📢 Beta Partner Contributions
+If you’re a service company testing SERVESAGE, you can contribute by:  
+- Sharing anonymized datasets for testing.  
+- Providing feedback on KPIs and dashboards.  
+- Suggesting features to prioritize in the roadmap.  
+
+---
+
+**Note:** Parts of SERVESAGE may remain closed-source for commercial reasons, but core documentation and integration patterns will remain open.
